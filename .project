@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Aspose.Words Examples</name>
+	<name>Aspose_Words_for_Apache_POI</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,15 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-		<filteredResources>
-			<filter>
-				<id>1356841242113</id>
-				<name>src</name>
-				<type>26</type>
-				<matcher>
-					<id>org.eclipse.ui.ide.multiFilter</id>
-					<arguments>1.0-name-matches-false-false-bin</arguments>
-				</matcher>
-			</filter>
-		</filteredResources>
 </projectDescription>
