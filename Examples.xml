@@ -1,231 +1,233 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Data>
-    <Folder>
-        <Title>Aspose.Words vs Apache POI WP</Title>
-        <Description></Description>
-        <FolderName>featurescomparison</FolderName>
-        <Order>1</Order>
-        <Folders>
+   <Folders>
+      <Folder>
+         <Title>Features Comparison</Title>
+         <Description />
+         <FolderName>featurescomparison</FolderName>
+         <Order>1</Order>
+         <Folders>
             <Folder>
-                <Title>Working with Documents</Title>
-                <Description></Description>
-                <FolderName>workingwithdocuments</FolderName>
-                <Order>1</Order>
-                <Examples>
-                    <Example>
-                        <Title>Convert Word Doc to Other Formats</Title>
-                        <Description></Description>
-                        <FolderName>converttoformats</FolderName>
-                        <Order>2</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Create New Word Document</Title>
-                        <Description></Description>
-                        <FolderName>createnewdocument</FolderName>
-                        <Order>1</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Format Text in Document</Title>
-                        <Description></Description>
-                        <FolderName>formattext</FolderName>
-                        <Order>3</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Get Document Properties</Title>
-                        <Description></Description>
-                        <FolderName>getdocumentproperties</FolderName>
-                        <Order>4</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Open Existing Document</Title>
-                        <Description></Description>
-                        <FolderName>openexistingdocument</FolderName>
-                        <Order>5</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Save Document</Title>
-                        <Description></Description>
-                        <FolderName>savedocument</FolderName>
-                        <Order>6</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                </Examples>
+               <Title>Working with Documents</Title>
+               <Description />
+               <FolderName>workingwithdocuments</FolderName>
+               <Order>1</Order>
+               <Examples>
+                  <Example>
+                     <Title>Convert Word Doc to Other Formats</Title>
+                     <Description />
+                     <FolderName>converttoformats</FolderName>
+                     <Order>2</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Create New Word Document</Title>
+                     <Description />
+                     <FolderName>createnewdocument</FolderName>
+                     <Order>1</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Format Text in Document</Title>
+                     <Description />
+                     <FolderName>formattext</FolderName>
+                     <Order>3</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Get Document Properties</Title>
+                     <Description />
+                     <FolderName>getdocumentproperties</FolderName>
+                     <Order>4</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Open Existing Document</Title>
+                     <Description />
+                     <FolderName>openexistingdocument</FolderName>
+                     <Order>5</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Save Document</Title>
+                     <Description />
+                     <FolderName>savedocument</FolderName>
+                     <Order>6</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+               </Examples>
             </Folder>
             <Folder>
-                <Title>Working with Headers and Footers</Title>
-                <Description></Description>
-                <FolderName>workingwithheadersandfooters</FolderName>
-                <Order>2</Order>
-                <Examples>
-                    <Example>
-                        <Title>Working with Footers</Title>
-                        <Description></Description>
-                        <FolderName>workingwithfooter</FolderName>
-                        <Order>2</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Working with Headers</Title>
-                        <Description></Description>
-                        <FolderName>workingwithheader</FolderName>
-                        <Order>1</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                </Examples>
+               <Title>Working with Headers and Footers</Title>
+               <Description />
+               <FolderName>workingwithheadersandfooters</FolderName>
+               <Order>2</Order>
+               <Examples>
+                  <Example>
+                     <Title>Working with Footers</Title>
+                     <Description />
+                     <FolderName>workingwithfooter</FolderName>
+                     <Order>2</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Working with Headers</Title>
+                     <Description />
+                     <FolderName>workingwithheader</FolderName>
+                     <Order>1</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+               </Examples>
             </Folder>
             <Folder>
-                <Title>Working with Images</Title>
-                <Description></Description>
-                <FolderName>workingwithimages</FolderName>
-                <Order>3</Order>
-                <Examples>
-                    <Example>
-                        <Title>Extract Images from Word Document</Title>
-                        <Description></Description>
-                        <FolderName>extractimagesfromdocument</FolderName>
-                        <Order>2</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Insert Image</Title>
-                        <Description></Description>
-                        <FolderName>insertimage</FolderName>
-                        <Order>1</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                </Examples>
+               <Title>Working with Images</Title>
+               <Description />
+               <FolderName>workingwithimages</FolderName>
+               <Order>3</Order>
+               <Examples>
+                  <Example>
+                     <Title>Extract Images from Word Document</Title>
+                     <Description />
+                     <FolderName>extractimagesfromdocument</FolderName>
+                     <Order>2</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Insert Image</Title>
+                     <Description />
+                     <FolderName>insertimage</FolderName>
+                     <Order>1</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+               </Examples>
             </Folder>
             <Folder>
-                <Title>Working with Ranges</Title>
-                <Description></Description>
-                <FolderName>workingwithranges</FolderName>
-                <Order>4</Order>
-                <Examples>
-                    <Example>
-                        <Title>Access Ranges in Document</Title>
-                        <Description></Description>
-                        <FolderName>accessranges</FolderName>
-                        <Order>1</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Delete Ranges in Document</Title>
-                        <Description></Description>
-                        <FolderName>deleteranges</FolderName>
-                        <Order>2</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Insert Before and After Ranges</Title>
-                        <Description></Description>
-                        <FolderName>insertbeforeandafterranges</FolderName>
-                        <Order>3</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                </Examples>
+               <Title>Working with Ranges</Title>
+               <Description />
+               <FolderName>workingwithranges</FolderName>
+               <Order>4</Order>
+               <Examples>
+                  <Example>
+                     <Title>Access Ranges in Document</Title>
+                     <Description />
+                     <FolderName>accessranges</FolderName>
+                     <Order>1</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Delete Ranges in Document</Title>
+                     <Description />
+                     <FolderName>deleteranges</FolderName>
+                     <Order>2</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Insert Before and After Ranges</Title>
+                     <Description />
+                     <FolderName>insertbeforeandafterranges</FolderName>
+                     <Order>3</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+               </Examples>
             </Folder>
             <Folder>
-                <Title>Working with Tables</Title>
-                <Description></Description>
-                <FolderName>workingwithtables</FolderName>
-                <Order>5</Order>
-                <Examples>
-                    <Example>
-                        <Title>Create Tables</Title>
-                        <Description></Description>
-                        <FolderName>createtables</FolderName>
-                        <Order>1</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                    <Example>
-                        <Title>Format Table in Document</Title>
-                        <Description></Description>
-                        <FolderName>formattable</FolderName>
-                        <Order>2</Order>
-                        <InputFiles>
-                            <DataFile>
-                                <Path></Path>
-                            </DataFile>
-                        </InputFiles>
-                        <Type>Console</Type>
-                    </Example>
-                </Examples>
+               <Title>Working with Tables</Title>
+               <Description />
+               <FolderName>workingwithtables</FolderName>
+               <Order>5</Order>
+               <Examples>
+                  <Example>
+                     <Title>Create Tables</Title>
+                     <Description />
+                     <FolderName>createtables</FolderName>
+                     <Order>1</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+                  <Example>
+                     <Title>Format Table in Document</Title>
+                     <Description />
+                     <FolderName>formattable</FolderName>
+                     <Order>2</Order>
+                     <InputFiles>
+                        <DataFile>
+                           <Path />
+                        </DataFile>
+                     </InputFiles>
+                     <Type>Console</Type>
+                  </Example>
+               </Examples>
             </Folder>
-        </Folders>
-    </Folder>
+         </Folders>
+      </Folder>
+   </Folders>
 </Data>
