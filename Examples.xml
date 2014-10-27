@@ -3,19 +3,22 @@
     <Folders>
         <Folder>
             <Title>Features Comparison</Title>
-            <Description />
+            <Description>
+Contain the code comparison for features in Apache POI WP SDK and Aspose.Words
+These examples are helpful for developers who want to compare Apache POI with Aspose OR migrate from Apache POI to Aspose.
+            </Description>
             <FolderName>featurescomparison</FolderName>
             <Order>1</Order>
             <Folders>
                 <Folder>
                     <Title>Working with Documents</Title>
-                    <Description />
+                    <Description>This folder contain the examples to deal with documents.</Description>
                     <FolderName>workingwithdocuments</FolderName>
                     <Order>1</Order>
                     <Examples>
                         <Example>
                             <Title>Convert Word Doc to Other Formats</Title>
-                            <Description />
+                            <Description>Converts a document from DOC to other formats.</Description>
                             <FolderName>converttoformats</FolderName>
                             <Order>2</Order>
                             <InputFiles>
@@ -44,7 +47,7 @@
                         </Example>
                         <Example>
                             <Title>Create New Word Document</Title>
-                            <Description />
+                            <Description>Creates a new Word Document from scratch</Description>
                             <FolderName>createnewdocument</FolderName>
                             <Order>1</Order>
                             <OutputFiles>
@@ -59,7 +62,7 @@
                         </Example>
                         <Example>
                             <Title>Format Text in Document</Title>
-                            <Description />
+                            <Description>Formats text and paragraph</Description> 
                             <FolderName>formattext</FolderName>
                             <Order>3</Order>
                             <OutputFiles>
@@ -74,7 +77,9 @@
                         </Example>
                         <Example>
                             <Title>Get Document Properties</Title>
-                            <Description />
+                            <Description>Document properties allow some useful information to be stored along with the document. There are system (built-in) and user defined (custom) properties. Built-in properties contain such things as document title, author's name, document statistics, and so on. Custom properties are just name-value pairs where user defines both the name and value.
+
+You can use document properties in your document automation project to store some useful info along with the document such as when the document was received/processed/time stamped and so on.</Description>
                             <FolderName>getdocumentproperties</FolderName>
                             <Order>4</Order>
                             <InputFiles>
@@ -86,7 +91,7 @@
                         </Example>
                         <Example>
                             <Title>Open Existing Document</Title>
-                            <Description />
+                            <Description>How to open existing word document</Description>
                             <FolderName>openexistingdocument</FolderName>
                             <Order>5</Order>
                             <InputFiles>
@@ -106,7 +111,7 @@
                         </Example>
                         <Example>
                             <Title>Save Document</Title>
-                            <Description />
+                            <Description>How to save document as a file.</Description>
                             <FolderName>savedocument</FolderName>
                             <Order>6</Order>
                             <OutputFiles>
@@ -123,13 +128,13 @@
                 </Folder>
                 <Folder>
                     <Title>Working with Headers and Footers</Title>
-                    <Description />
+                    <Description>How to deal with Headers and Footers</Description>
                     <FolderName>workingwithheadersandfooters</FolderName>
                     <Order>2</Order>
                     <Examples>
                         <Example>
                             <Title>Working with Footers</Title>
-                            <Description />
+                            <Description>How to create footer in word document.</Description>
                             <FolderName>workingwithfooter</FolderName>
                             <Order>2</Order>
                             <InputFiles>
@@ -146,7 +151,7 @@
                         </Example>
                         <Example>
                             <Title>Working with Headers</Title>
-                            <Description />
+                            <Description>How to create header in word document.</Description>
                             <FolderName>workingwithheader</FolderName>
                             <Order>1</Order>
                             <InputFiles>
@@ -165,13 +170,13 @@
                 </Folder>
                 <Folder>
                     <Title>Working with Images</Title>
-                    <Description />
+                    <Description>Includes examples to insert images in doc and extract images from a document.</Description>
                     <FolderName>workingwithimages</FolderName>
                     <Order>3</Order>
                     <Examples>
                         <Example>
                             <Title>Extract Images from Word Document</Title>
-                            <Description />
+                            <Description>How to extract images from a document</Description>
                             <FolderName>extractimagesfromdocument</FolderName>
                             <Order>2</Order>
                             <InputFiles>
@@ -183,7 +188,7 @@
                         </Example>
                         <Example>
                             <Title>Insert Image</Title>
-                            <Description />
+                            <Description>How to insert images in document</Description>
                             <FolderName>insertimage</FolderName>
                             <Order>1</Order>
                             <InputFiles>
@@ -208,13 +213,13 @@
                 </Folder>
                 <Folder>
                     <Title>Working with Ranges</Title>
-                    <Description />
+                    <Description>How to deal with ranges</Description>
                     <FolderName>workingwithranges</FolderName>
                     <Order>4</Order>
                     <Examples>
                         <Example>
                             <Title>Access Ranges in Document</Title>
-                            <Description />
+                            <Description>How to access and use ranges in document</Description>
                             <FolderName>accessranges</FolderName>
                             <Order>1</Order>
                             <InputFiles>
@@ -226,7 +231,7 @@
                         </Example>
                         <Example>
                             <Title>Delete Ranges in Document</Title>
-                            <Description />
+                            <Description>How to delete ranges in document</Description>
                             <FolderName>deleteranges</FolderName>
                             <Order>2</Order>
                             <InputFiles>
@@ -238,7 +243,7 @@
                         </Example>
                         <Example>
                             <Title>Insert Before and After Ranges</Title>
-                            <Description />
+                            <Description>How to insert data before and after the specified ranges</Description>
                             <FolderName>insertbeforeandafterranges</FolderName>
                             <Order>3</Order>
                             <InputFiles>
@@ -260,13 +265,13 @@
                 </Folder>
                 <Folder>
                     <Title>Working with Tables</Title>
-                    <Description />
+                    <Description>How to deal with tables</Description>
                     <FolderName>workingwithtables</FolderName>
                     <Order>5</Order>
                     <Examples>
                         <Example>
                             <Title>Create Tables</Title>
-                            <Description />
+                            <Description>Shows how to create table from scratch</Description>
                             <FolderName>createtables</FolderName>
                             <Order>1</Order>
                             <OutputFiles>
@@ -281,7 +286,7 @@
                         </Example>
                         <Example>
                             <Title>Format Table in Document</Title>
-                            <Description />
+                            <Description>How to format tables in document.</Description>
                             <FolderName>formattable</FolderName>
                             <Order>2</Order>
                             <OutputFiles>
