@@ -79,7 +79,7 @@
                             <Order>4</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\document.doc</Path>
                                 </DataFile>
                             </InputFiles>
                             <Type>Console</Type>
@@ -91,9 +91,17 @@
                             <Order>5</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\document.doc</Path>
                                 </DataFile>
                             </InputFiles>
+                            <OutputFiles>
+                                <DataFile>
+                                    <Path>..\data\Aspose_ExistingDoc_Out.docx</Path>
+                                </DataFile>
+                                <DataFile>
+                                    <Path>..\data\Apache_ExistingDoc_Out.doc</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                         <Example>
@@ -101,11 +109,14 @@
                             <Description />
                             <FolderName>savedocument</FolderName>
                             <Order>6</Order>
-                            <InputFiles>
+                            <OutputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\Aspose_SaveDoc_Out.docx</Path>
                                 </DataFile>
-                            </InputFiles>
+                                <DataFile>
+                                    <Path>..\data\Apache_SaveDoc_Out.doc</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                     </Examples>
@@ -123,9 +134,14 @@
                             <Order>2</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\AsposeFooter.doc</Path>
                                 </DataFile>
                             </InputFiles>
+                            <OutputFiles>
+                                <DataFile>
+                                    <Path>..\data\AsposeFooter_Out.doc</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                         <Example>
@@ -135,9 +151,14 @@
                             <Order>1</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\AsposeHeader.doc</Path>
                                 </DataFile>
                             </InputFiles>
+                            <OutputFiles>
+                                <DataFile>
+                                    <Path>..\data\AsposeHeader_Out.doc</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                     </Examples>
@@ -155,7 +176,7 @@
                             <Order>2</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\document.doc</Path>
                                 </DataFile>
                             </InputFiles>
                             <Type>Console</Type>
@@ -167,9 +188,20 @@
                             <Order>1</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\aspose.jpg</Path>
+                                </DataFile>
+                                <DataFile>
+                                    <Path>..\data\background.jpg</Path>
                                 </DataFile>
                             </InputFiles>
+                            <OutputFiles>
+                                <DataFile>
+                                    <Path>..\data\Aspose_InsertImage_Out.docx</Path>
+                                </DataFile>
+                                <DataFile>
+                                    <Path>..\data\Apache_ImagesInDoc_Out.docx</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                     </Examples>
@@ -187,7 +219,7 @@
                             <Order>1</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\document.doc</Path>
                                 </DataFile>
                             </InputFiles>
                             <Type>Console</Type>
@@ -199,7 +231,7 @@
                             <Order>2</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\document.doc</Path>
                                 </DataFile>
                             </InputFiles>
                             <Type>Console</Type>
@@ -211,9 +243,17 @@
                             <Order>3</Order>
                             <InputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\document.doc</Path>
+                                </DataFile>
+                                <DataFile>
+                                    <Path>..\data\background.jpg</Path>
                                 </DataFile>
                             </InputFiles>
+                            <OutputFiles>
+                                <DataFile>
+                                    <Path>..\data\AsposeReplaceTextboxesWithImages_Out.doc</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                     </Examples>
@@ -229,11 +269,14 @@
                             <Description />
                             <FolderName>createtables</FolderName>
                             <Order>1</Order>
-                            <InputFiles>
+                            <OutputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\Aspose_CreateTable_Out.doc</Path>
                                 </DataFile>
-                            </InputFiles>
+                                <DataFile>
+                                    <Path>..\data\Apache_CreateTable_Out.doc</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                         <Example>
@@ -241,11 +284,14 @@
                             <Description />
                             <FolderName>formattable</FolderName>
                             <Order>2</Order>
-                            <InputFiles>
+                            <OutputFiles>
                                 <DataFile>
-                                    <Path />
+                                    <Path>..\data\Aspose_styledTable_Out.doc</Path>
                                 </DataFile>
-                            </InputFiles>
+                                <DataFile>
+                                    <Path>..\data\Apache_styledTable_Out.docx</Path>
+                                </DataFile>
+                            </OutputFiles>
                             <Type>Console</Type>
                         </Example>
                     </Examples>
