@@ -32,7 +32,7 @@ public class AsposeMovingCursor
 		builder.moveToDocumentStart();
 		builder.writeln("This is the beginning of the document.");
 		
-		doc.save("dataPath + AsposeMovingCursor.doc");
+		doc.save(dataPath + "AsposeMovingCursor.doc");
 		
 		System.out.println("Done.");
 	}

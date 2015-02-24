@@ -15,8 +15,8 @@ public class AsposeSpecifyDefaultFontswhileRendering
 		FontSettings.setDefaultFontName("Arial Unicode MS");
 		
 		// Now the set default font is used in place of any missing fonts during any rendering calls.
-		doc.save(dataPath + "Rendering.SetDefaultFont_Out.pdf");
-		doc.save(dataPath + "Rendering.SetDefaultFont_Out.xps");
+		doc.save(dataPath + "AsposeSetDefaultFont_Out.pdf");
+		doc.save(dataPath + "AsposeSetDefaultFont_Out.xps");
 		
 		System.out.println("Process Completed Successfully");
 	}
