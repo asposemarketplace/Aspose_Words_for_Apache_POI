@@ -341,8 +341,8 @@
 			<Order>2</Order>
 			<Folders>
 				<Folder>
-					<Title></Title>
-					<Description></Description>
+					<Title>Working with Documents</Title>
+					<Description>Contain examples to guide How to Work with Documents</Description>
 					<FolderName>workingwithdocument</FolderName>
 					<Order>1</Order>
 					<Examples>
