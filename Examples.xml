@@ -682,6 +682,35 @@
 							</OutputFiles>
 							<Type>Console</Type>
 						</Example>
+						<Example>
+							<Title>Extract Comments</Title>
+							<Description>How to Extract Comments</Description>
+							<FolderName>extractcomments</FolderName>
+							<Order>5</Order>
+							<InputFiles>
+								<DataFile>
+									<Path>..\data\AsposeComments.docx</Path>
+								</DataFile>
+							</InputFiles>
+							<Type>Console</Type>
+						</Example>
+						<Example>
+							<Title>Remove Comments</Title>
+							<Description>How to Remove Comments</Description>
+							<FolderName>removecomments</FolderName>
+							<Order>6</Order>
+							<InputFiles>
+								<DataFile>
+									<Path>..\data\AsposeComments.docx</Path>
+								</DataFile>
+							</InputFiles>
+							<OutputFiles>
+								<DataFile>
+									<Path>..\data\AsposeCommentsRemoved.docx</Path>
+								</DataFile>
+							</OutputFiles>
+							<Type>Console</Type>
+						</Example>
 					</Examples>
 				</Folder>
 				<Folder>
@@ -707,6 +736,71 @@
 							<OutputFiles>
 								<DataFile>
 									<Path>..\data\AsposeMailMerge.doc</Path>
+								</DataFile>
+							</OutputFiles>
+							<Type>Console</Type>
+							
+						</Example>
+					</Examples>
+				</Folder>
+				<Folder>
+					<Title>Working with Barcode</Title>
+					<Description>Includes examples to show working with barcode</Description>
+					<FolderName>workingwithbarcode</FolderName>
+					<Order>5</Order>
+					<Examples>
+						<Example>
+							<Title>Insert Barcode on Each Page</Title>
+							<Description>How to insert barcode on each page of word processing document</Description>
+							<FolderName>insertbarcodeoneachpage</FolderName>
+							<Order>1</Order>
+							<InputFiles>
+								<DataFile>
+									<Path>..\data\barcode.png</Path>
+								</DataFile>
+							</InputFiles>
+							<OutputFiles>
+								<DataFile>
+									<Path>..\data\AsposeBarcodeOnEachPage.docx</Path>
+								</DataFile>
+							</OutputFiles>
+							<Type>Console</Type>
+							
+						</Example>
+					</Examples>
+				</Folder>
+				<Folder>
+					<Title>Working with Fields</Title>
+					<Description>Includes examples to show working with fields</Description>
+					<FolderName>workingwithfields</FolderName>
+					<Order>6</Order>
+					<Examples>
+						<Example>
+							<Title>Insert Fields in Document</Title>
+							<Description>How to insert fields in word processing document</Description>
+							<FolderName>insertfieldsindoc</FolderName>
+							<Order>1</Order>
+							<OutputFiles>
+								<DataFile>
+									<Path>..\data\AsposeFields.docx</Path>
+								</DataFile>
+							</OutputFiles>
+							<Type>Console</Type>
+							
+						</Example>
+						<Example>
+							<Title>Remove Fields from Document</Title>
+							<Description>How to remove fields from word processing document</Description>
+							<FolderName>removefields</FolderName>
+							<Order>2</Order>
+							<InputFiles>
+								<DataFile>
+									<Path>..\data\AsposeFields.docx</Path>
+								</DataFile>
+							</InputFiles>
+							<OutputFiles>
+								<DataFile>
+									<Path>..\data\AsposeFieldsRemoved.docx</Path>
 								</DataFile>
 							</OutputFiles>
 							<Type>Console</Type>
